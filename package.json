@@ -1,0 +1,27 @@
+{
+  "name": "bot",
+  "version": "1.0.1",
+  "description": "Staff Utility Bot",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "author": "iimfiire",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.4.1",
+    "math.js": "^1.1.46",
+    "mathjs": "^8.1.1",
+    "ms": "^2.1.2",
+    "quickdb": "^1.0.5"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iimfiire/bot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/iimfiire/bot/issues"
+  },
+  "homepage": "https://github.com/iimfiire/bot#readme"
+}
